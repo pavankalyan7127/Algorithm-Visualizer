@@ -404,9 +404,7 @@ export function VisualizationCanvas({ data, stepIndex, currentArray, activeIndic
       </Layer>
     </Stage>
   );
-}
-
-  
+}  
   if (data.visualizationType === "custom") {
   stage = (
     <Stage width={900} height={500}>
