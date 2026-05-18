@@ -167,9 +167,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Pavan Kalyan K** — [@pavankalyan7127](https://github.com/pavankalyan7127)
 
-Mohanakumar L · Madhumitha N · Anitha A *(faculty advisor)*
-
-Vellore Institute of Technology, Vellore, India
 
 ---
 
