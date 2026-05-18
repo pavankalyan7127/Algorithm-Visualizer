@@ -2,7 +2,6 @@
 
 An AI-driven multi-agent web application that dynamically generates step-by-step algorithm visualizations from any user input — text, description, or image. Built with React.js, Konva.js, Node.js, and n8n, it helps students understand algorithms through interactive visuals, pseudocode, and a real-time doubt-resolution chatbot.
 
-> 📄 Based on the research paper: *"An AI-Driven Multi-Agent System for Interactive Algorithm Visualization and Comparative Learning"* — Vellore Institute of Technology
 
 ---
 
