@@ -81,8 +81,8 @@ The React app will open at `http://localhost:3000`.
 
 ## 📸 Screenshots
 
-![App Screenshot](./Frontend/src/screenshots/mainpage.png)
-![App Screenshot](./Frontend/src/screenshots/workflow.png)
+![App Screenshot](./Frontend/src/screenshots/algovis1.png)
+![App Screenshot](./Frontend/src/screenshots/Screenshot 2026-04-16 125037.png)
 
 ---
 
